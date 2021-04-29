@@ -2,7 +2,7 @@
 This is an example to show inline content using iOS Math Library
 
 
-I have used tags to determine latex in the html content. Also I have added extensions to modify font of html content. The tags used for Latex are: \( & \), so anything in between will be treated as Latex.
+I have used tags to determine latex in the html content. Also I have added extensions to modify font of html content. The tags used for Latex are: \\( and \\), so anything in between will be treated as Latex. I have attached controller file which contains all the code required to achive the result.
 
 Screenshot:
 
