@@ -93,7 +93,7 @@ class HTMLContentController: UIViewController {
     <br><br>
     <img src=http://latex.codecogs.com/gif.latex?%5Cbinom%7Bn%7D%7Bk%7D%20%3D%20%5Cfrac%7Bn%21%7D%7Bk%21%28n-k%29%21%7D>
     <br>
-    
+    <p> \\(\\lim\\limits_{n\\rightarrow+\\infty}\\left (\\frac{1}{\\sqrt{n}}+3\\right) =? \\) </p>
 """
     override func viewDidLoad() {
         super.viewDidLoad()
