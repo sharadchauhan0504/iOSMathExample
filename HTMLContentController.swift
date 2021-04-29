@@ -86,17 +86,12 @@ class HTMLContentController: UIViewController {
      
         <p> Given a right triangle having catheti of length \\((a)\\) resp. \\((b)\\) and a hypotenuse of length \\((c)\\), we have \\([a^2 + b^2 = c^2]\\). This fact is known as the Pythagorean theorem. </p>
         <br>
-        <p> \\(\\cos (2\\theta) = \\cos^2 \\theta - \\sin^2 \\theta\\) </p>
-    <p> \\(A\\), \\(A - A'\\) </p>
-    <p>The HTML address element defines contact information (author/owner) of a document or article.</p>
+        <p> \\(\\cos (2\\theta) = \\cos^2 \\theta - \\sin^2 \\theta\\) </p><br>
+    <p> \\(sum _{ab\\frac{\\partial af\\frac{sdfas}{45}}{\\partial x}}^{}\\) </p><br>
 
-    <address style="font-size:16px;">
-    Written by John Doe.<br>
-    Visit us at:<br>
-    Example.com<br>
-    Box 564, Disneyland<br>
-    USA
-    </address>
+    <span class="mrow"><span class="mi">t<span class="mi">a<span class="mi">n<span class="mo">(<span class="mfrac"><span class="mn">45<span class="mn">2<span class="mo">)<span class="mo">=<span class="msqrt"><span class="mrow"><span class="mn">2–√<span class="mo">−<span class="mn">1
+    <br><br>
+    <img src=http://latex.codecogs.com/gif.latex?%5Cbinom%7Bn%7D%7Bk%7D%20%3D%20%5Cfrac%7Bn%21%7D%7Bk%21%28n-k%29%21%7D>
     <br>
     
 """
